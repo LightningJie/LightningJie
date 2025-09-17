@@ -11,7 +11,8 @@
 - fix: fix the bug causing Redis-server to exit abnormally on [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) (1 month ago)
 
 ## ⭐ Recent stars
-- [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) - A KV storage engine based on LSM Tree, supporting Redis RESP (1 month ago)
+- [Gooddbird/tinyrpc](https://github.com/Gooddbird/tinyrpc) - A high-performance asynchronous RPC framework based on C++11 (recently)
+- [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) - A KV storage engine based on LSM Tree, supporting Redis RESP (2 month ago)
 
 ## 🛠️ Technical Skills
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
