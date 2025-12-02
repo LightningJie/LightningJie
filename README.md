@@ -2,7 +2,7 @@
 
 🎓 Master's Student at Xidian University 
 
-💻 Interested in LSM, KV.
+💻 Interested in LSM, KV，Learning Index.
 
 ## 👷 Check out what I'm currently working on
 - [google/leveldb](https://github.com/google/leveldb) - A fast key-value storage library built by Google, implementing the LSM-tree architecture (Recently)
